@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/).  
   
 
-- 🌱 I’m currently learning Ruby on Rails & React.js  
+- 🌱 Currently learning Ruby on Rails & React.js  
   
 
-- 🔍 I'm looking for hackathons to do, let me know if you're interested.  
+- 🔍 Also looking for hackathons to do, let me know if you're interested.  
   
 
 - ⚡ Fun fact: I prefer back-end over front-end. 💥  
