@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Omerzahid, a student at the University of Toronto studying Computer Science & Math</div>  
+### <div align="center">I'm Omerzahid, a student at the University of Toronto studying Statistics & Computer Science</div>  
   
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/).  
